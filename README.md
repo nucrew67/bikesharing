@@ -5,6 +5,8 @@ The written analysis has the following:
 
     -Overview of the statistical analysis:
         The purpose of the analysis is well defined. (5 pt)
+    Tableau Public Link
+    [https://public.tableau.com/app/profile/randy.roger/viz/NYCBike-ShareChallenge/CheckoutTimesforUsers])Link to Dashboard
 
     -Results:
         There are at least seven visualizations for the NYC Citibike analysis (7 pt)
