@@ -10,8 +10,7 @@ While the data is based on activity that occurred in New York City which is very
 
 For our presentation, we decide to use data from August 2019 to build our analysis. It is assumed that there is more traffic or usage during the summer months compared to other times of the year in which weather can impact activity.
         
-    Tableau Public Link
-    [https://public.tableau.com/app/profile/randy.roger/viz/NYCBike-ShareChallenge/CheckoutTimesforUsers])Link to Dashboard
+    
 ## Tableau Public Link
 
 [Link to Dashboard](https://public.tableau.com/app/profile/randy.roger/viz/NYCBike-ShareChallenge/CheckoutTimesforUsers)
