@@ -14,7 +14,7 @@ For our presentation, we decide to use data from August 2019 to build our analys
     [https://public.tableau.com/app/profile/randy.roger/viz/NYCBike-ShareChallenge/CheckoutTimesforUsers])Link to Dashboard
 ## Tableau Public Link
 
-[Link to Dashboard](https://public.tableau.com/profile/amy.lio#!/vizhome/NYC_CitiBike_Challenge_Submission/BikeShareAnalysis-Deliverable3)
+[Link to Dashboard](https://public.tableau.com/app/profile/randy.roger/viz/NYCBike-ShareChallenge/CheckoutTimesforUsers)
 
 ## Results
 
